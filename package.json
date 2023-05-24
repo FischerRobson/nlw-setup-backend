@@ -17,7 +17,8 @@
     "dotenv": "^16.0.3",
     "eslint": "^8.40.0",
     "prisma": "^4.14.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "tsx": "^3.12.7"
   },
   "dependencies": {
     "@fastify/cors": "^8.2.1",
